@@ -32,9 +32,9 @@
 
  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]
  
- ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+ ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
- ![Rust](https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white)]
+ ![Rust](https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white)
  
  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
  
@@ -44,9 +44,9 @@
 
 #                                                                      *Ferramentas*
 
-![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/H9zz "Visual Studio")](https://github.com/H9zz)
-![Atom](https://img.shields.io/badge/-007ACC?style=flat&logo=Atom&logoColor=white&link=https://github.com/0xKonrad "Atom")](https://github.com/0xKonrad)
-![Sublime Text](https://img.shields.io/badge/-007ACC?style=flat&logo=Sublime-Text&logoColor=white&link=https://github.com/0xKonrad "Sublime Text")](https://github.com/0xKonrad)
+![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/H9zz "Visual Studio")
+![Atom](https://img.shields.io/badge/-007ACC?style=flat&logo=Atom&logoColor=white&link=https://github.com/0xKonrad "Atom")
+![Sublime Text](https://img.shields.io/badge/-007ACC?style=flat&logo=Sublime-Text&logoColor=white&link=https://github.com/0xKonrad "Sublime Text")
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/768926761844211753/791262296017862716/konradbanner.jpg" alt="Banner Profile"/></p>
 
@@ -57,5 +57,5 @@
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=0xKonrad&theme=graywhite&show_icons=true" alt="H9zz"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=H9zz&theme=graywhite&show_icons=true" alt="H9zz"/></p>
 
