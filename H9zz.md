@@ -48,7 +48,7 @@
 ![Atom](https://img.shields.io/badge/-007ACC?style=flat&logo=Atom&logoColor=white&link=https://github.com/0xKonrad "Atom")
 ![Sublime Text](https://img.shields.io/badge/-007ACC?style=flat&logo=Sublime-Text&logoColor=white&link=https://github.com/0xKonrad "Sublime Text")
 
-<p align="center"><img src="" alt="Banner Profile"/></p>
+<p align="center"><img src="" alt="a"/></p>
 
 "Fingindo demência, mas sempre sabendo de tudo!" 
 <p align="left">
