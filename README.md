@@ -1,11 +1,8 @@
 #                                                                    *H7zz*
 
-<p align="center">
-<a href="https://twitter.com/0xKonradRose" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/790973393423171674/580b57fcd9996e24bc43c53e.png?width=389&height=389" alt="0xKonrad" height="50" width="50" /></a>
-<a href="https://instagram.com/m.s.swindler" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/790985149457629254/unnamed_2.png?width=307&height=307" alt="0xKonrad" height="50" width="50"</a>
-</a>     
-</p>
-
+#                                                                    *Contatos*
+! [Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+ 
 <p align="center">Meu nome é Huzz, tenho 15 anos, moro no Brasil. 
 </p>
 
