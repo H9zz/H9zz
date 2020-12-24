@@ -1,6 +1,6 @@
 # Hey ✌️ I'm [H7zz](https://github.com/H9zz)
 
-# 📗 Biografia:
+## 📗 Biografia:
 
 <p align="center">🐷 Meu nome é Huzz, tenho 15 anos, moro no Brasil. 🐷 
 </p>
@@ -9,19 +9,19 @@
 </p>
 
 
-# 🎈 Gosto de assistir:
+## 🎈 Gosto de assistir:
 
  ![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
  ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
  ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-# 🎒 Atualmente estudo:
+## 🎒 Atualmente estudo:
 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-# ⭐ Principais Linguagens:
+## ⭐ Principais Linguagens:
 
  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
  
@@ -35,7 +35,7 @@
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-# 💻 OS
+## 💻 OS
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
  
@@ -56,7 +56,7 @@
 
 <p align="left">
 
-# 🎶 Escutando:
+## 🎶 Escutando:
 
 ![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)
 
