@@ -30,32 +30,36 @@
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 #                                                                    *Principais Linguagens*
 
- ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+ [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/H9zz)
  
- ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/H9zz)
 
- ![Rust](https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white)
+ [![Rust](https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://github.com/H9zz)
  
- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+ [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
  
- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+ [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#                                                                      *Jogos*
+
+![Counter-Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 #                                                                      *Ferramentas*
 
-![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/H9zz "Visual Studio")
-![Atom](https://img.shields.io/badge/-007ACC?style=flat&logo=Atom&logoColor=white&link=https://github.com/0xKonrad "Atom")
-![Sublime Text](https://img.shields.io/badge/-007ACC?style=flat&logo=Sublime-Text&logoColor=white&link=https://github.com/0xKonrad "Sublime Text")
+![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/0xKonrad "Visual Studio")](https://github.com/0xKonrad)
+![Atom](https://img.shields.io/badge/-007ACC?style=flat&logo=Atom&logoColor=white&link=https://github.com/0xKonrad "Atom")](https://github.com/0xKonrad)
+![Sublime Text](https://img.shields.io/badge/-007ACC?style=flat&logo=Sublime-Text&logoColor=white&link=https://github.com/0xKonrad "Sublime Text")](https://github.com/0xKonrad)
 
-<p align="center"><img src="" alt="a"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/768926761844211753/791262296017862716/konradbanner.jpg" alt="Banner Profile"/></p>
 
-"Fingindo demência, mas sempre sabendo de tudo!" 
+"Sábio é aquele que reconhece os limites da própria ignorância!" 
 <p align="left">
 
 #                                                                    *Listening*
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=H9zz&theme=graywhite&show_icons=true" alt="H9zz"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=0xKonrad&theme=graywhite&show_icons=true" alt="H9zz"/></p>
 
