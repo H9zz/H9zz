@@ -56,7 +56,7 @@
 
 <p align="center"><img src="" alt="Banner Profile"/></p>
 
-"Sábio é aquele que reconhece os limites da própria ignorância!" 
+"fingindo demência, mas sempre sabendo de tudo!" 
 <p align="left">
 
 #                                                                    *Listening*
