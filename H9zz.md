@@ -50,7 +50,7 @@
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/768926761844211753/791262296017862716/konradbanner.jpg" alt="Banner Profile"/></p>
 
-"Sábio é aquele que reconhece os limites da própria ignorância!" 
+"Fingindo demência, mas sempre sabendo de tudo!" 
 <p align="left">
 
 #                                                                    *Listening*
