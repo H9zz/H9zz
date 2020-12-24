@@ -1,7 +1,7 @@
 #                                                                    *H7zz*
 
 #                                                                    *Contatos*
-! [Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
  
 <p align="center">Meu nome é Huzz, tenho 15 anos, moro no Brasil. 
 </p>
