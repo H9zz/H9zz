@@ -58,8 +58,8 @@
 
 #                                                                    *Listening*
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
+![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=0xKonrad&theme=graywhite&show_icons=true" alt="H9zz"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=H9zz&theme=graywhite&show_icons=true" alt="H9zz"/></p>
 
 
