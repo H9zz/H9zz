@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm H9zz</h1>
-<h3 align="center">Um apaixonado desenvolvedor de Ruby</h3>
 
 - 🔭 Atualmente, estou interessado em:
   
@@ -16,10 +15,6 @@
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - ⚡ Sobre mim: Olá, meu nome é Huzz, tenho 15 anos
-
-- 👨‍💻 
-
-- 💬 
 
 - 📫 Melhores amigos: @Konrad - @Hmz - @Lx7
 
