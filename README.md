@@ -1,52 +1,43 @@
-# Hey ✌️ I'm [H7zz](https://github.com/H9zz)
+# :man_technologist: - H7zz
 
-## 📗 Biografia:
+### Seja bem vindo ao meu repositório! 👋 
+### aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária como programador. 🏆
 
-<p align="center">🐷 Meu nome é Huzz, tenho 15 anos, moro no Brasil. 🐷 
-</p>
+<details>
+<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
-<p align="center">💗 Sou um estudante comum de programação. Estou sempre atrás de formas de aprimorar meu conhecimento.
-</p>
+### 📖 Sobre mim
+Comecei aprender programação por ajuda de um amigo meu e comecei a me interessar por isso estou sempre querendo evoluir mais e
+sempre estudando.
+</details>
 
-## 🎒 Atualmente estudo:
+### 💼 Mexo com
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-## ⭐ Principais Linguagens:
+### 💼 Meus ambientes
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-f5c022?style=flat-square&logo=linux&logoColor=141414)
+<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- 
- ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
- 
- ![Rust](https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white)
- 
- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
- 
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- 
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- 
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-## 💻 OS
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
- 
-## 🎮 Games:
-![Counter-Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+### 💻 Estudando atualmente
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🤜 Grupos:
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+### 👀 Estou interessado
+![Go](https://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-1c8dd8?style=flat-square&logo=kotlin&logoColor=ffa808)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-"Fingindo demência, mas sempre sabendo de tudo!" 
-<p align="center"><img src="https://media.discordapp.net/attachments/790300035078160394/791777766563119114/o1601565086274293.png" alt="Banner Profile"/></p>
 
-<p align="left">
-
-## 🎶 Escutando:
-
-![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=H9zz&theme=graywhite&show_icons=true" alt="H9zz"/></p>
+---
+<p align = "center">
+  <a href="https://github.com/H9zz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H9zz&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/H9zz"><img src="https://github-readme-stats.vercel.app/api?username=H9zz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="H9zz"/></a>
+</p> 
 
 
