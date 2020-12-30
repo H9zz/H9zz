@@ -36,5 +36,3 @@
    
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-   <p align="center"><img src="https://media.discordapp.net/attachments/793692428116557854/793865447513522187/huzz.png?width=576&height=576" alt="Banner Profile"/></p>
