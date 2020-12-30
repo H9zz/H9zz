@@ -23,7 +23,7 @@
 <a href="https://twitter.com/0xKonradRose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soni07_aman" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://media.discordapp.net/attachments/792808275305168897/793932355336273980/teodeiohuzz.png?width=960&height=320" alt="Banner Profile"/></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/793818488422531092/793949601903935508/huzz3.png" alt="Banner Profile"/></p>
 
 <h3 align="left">Atualmente sei sobre:</h3>
    
