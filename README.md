@@ -1,40 +1,29 @@
-<h1 align="center">Hi 👋, I'm H9zz</h1>
+#                                                                    *H9zz
 
-- 🔭 Atualmente, estou interessado em:
-  
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-   
- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- 🌱 Atualmente estou aprendendo:
-   
-    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- ⚡ Sobre mim: Olá, meu nome é Huzz, tenho 15 anos
-
-- 📫 Melhores amigos: @Konrad - @Hmz - @Lx7
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/0xKonradRose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soni07_aman" height="30" width="40" /></a>
+<p align="center"> Prazer, sou o Huzz, um estudante comum de programação.
 </p>
 
-<p align="center"><img src="https://media.discordapp.net/attachments/793818488422531092/793949601903935508/huzz3.png" alt="Banner Profile"/></p>
+<p align="center"> Estou sempre atrás de formas de aprimorar meu conhecimento.
+  
 
-<h3 align="left">Atualmente sei sobre:</h3>
-   
-   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-   
-   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-   
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-   
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#                                                                    *Biografia*
+
+      - 🍙 Pedro;                          
+      - 📚 15 anoss;
+      - 💻 Estudante de programação;
+      - 🧪 Gôiania - GYN;
+      - ⚖️ Working for: "ᱰ".
+<p align="center"> Se conecte comigo:
+</p>
+
+<p align="center">
+<a href="https://twitter.com/0xKonradRose" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033471149244436/desconhecido.png?width=342&height=342" alt="0xKonrad" height="50" width="50" /></a>
+<a href="https://instagram.com/m.s.swindler" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033941666004992/desconhecido.png?width=225&height=225" alt="0xKonrad" height="50" width="50"</a>
+</a>     
+</p>
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
+<p align="center"><img src="https://media.discordapp.net/attachments/792808275305168897/793949502175969320/huzz3.png?width=960&height=320" /></a>
+
+"假装痴呆症，但一无所知。🖤" 
+<p align="center">
