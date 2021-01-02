@@ -9,7 +9,7 @@
 #                                                                    *Biografia*
 
       - 🍙 Pedro;                          
-      - 📚 15 anoss;
+      - 📚 15 anos;
       - 💻 Estudante de programação;
       - 🧪 Gôiania - GYN;
       - ⚖️ Working for: "ᱰ".
