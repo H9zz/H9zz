@@ -22,7 +22,6 @@
 </a>     
 </p>
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
 <p align="center"><img src="https://media.discordapp.net/attachments/792808275305168897/793949502175969320/huzz3.png?width=960&height=320" /></a>
 
 "假装痴呆症，但一无所知。🖤" 
