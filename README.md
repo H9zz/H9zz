@@ -12,7 +12,6 @@
       - 📚 15 anos;
       - 💻 Estudante de programação;
       - 🧪 Gôiania - GYN;
-      - ⚖️ Working for: "ᱰ".
 <p align="center"> Se conecte comigo:
 </p>
 
