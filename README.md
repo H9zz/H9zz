@@ -7,11 +7,12 @@
   
 
 #                                                                    *Biografia*
-
-      - 🍙 Pedro;                          
-      - 📚 15 anos;
+```diff
+      + 🍙 Pedro;                          
+      ! 📚 15 anos;
       - 💻 Estudante de programação;
-      - 🧪 Gôiania - GYN;
+      # 🧪 Gôiania - GYN;
+ ```
 <p align="center"> Se conecte comigo:
 </p>
 
