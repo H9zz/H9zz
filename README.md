@@ -8,10 +8,10 @@
 
 #                                                                    *Biografia*
 ```diff
-      + 🍙 Pedro;                          
+      ! 🍙 Pedro;                          
       ! 📚 15 anos;
-      - 💻 Estudante de programação;
-      # 🧪 Gôiania - GYN;
+      ! 💻 Estudante de programação;
+      ! 🧪 Gôiania - GYN;
  ```
 <p align="center"> Se conecte comigo:
 </p>
