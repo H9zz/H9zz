@@ -1,5 +1,3 @@
-#                                                     Bio
-
 ```diff
 - 📝 I work for pentest for Cyber Illusion.
 + 🌎 Brazil!
