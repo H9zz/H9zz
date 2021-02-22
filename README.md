@@ -1,7 +1,7 @@
 #                                                                    *H9zz*
 
 <p align="center">
-<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>
+<a href="https://twitter.com/ownaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>
 
 #
 
@@ -11,7 +11,7 @@
 
 ## Olá, seja bem vindo ao meu perfil no Github, meu nome é Huzz e sou estudante de Pentest.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Noxty&show_icons=true&include_all_commits=true&count_private=true" alt="H9zz"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=H9zz&show_icons=true&include_all_commits=true&count_private=true" alt="H9zz"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H9zz&layout=compact&card_width=445" alt="H9zz"/></p>
 
